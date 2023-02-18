@@ -3,10 +3,10 @@ import { useNavigate, Link } from "react-router-dom";
 import { Button } from "../components/Button";
 import "../styles/Button.css";
 
-export const Home = () => {
+export const Home2 = () => {
   return (
-    <div className="home1">
-      <Link to={"/Home2"} className={"button"}>
+    <div className="home2">
+      <Link to={"/Home3"} className={"button"}>
         Click Me!
       </Link>
     </div>
