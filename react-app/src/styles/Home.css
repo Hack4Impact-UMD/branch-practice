@@ -29,9 +29,8 @@
   border-style: solid;
   border-width: 2px;
   background-color: #ce3030;
-  position: absolute;
-  margin: auto;
-  top: 50%;
-  left: 38%;
+  position: relative;
+  left: 35%;
+  top: 30%;
   box-shadow: 2px 2px 10px black;
 }
