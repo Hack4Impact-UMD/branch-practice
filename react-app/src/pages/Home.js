@@ -14,7 +14,7 @@ export const Home = () => {
   };
 
   return (
-    <div className={style}>
+    <div className="home" id={style}>
       <button onClick={changeColor} className={"button"}>
         Click Me!
       </button>

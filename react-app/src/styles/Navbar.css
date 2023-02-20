@@ -14,6 +14,7 @@
   justify-content: space-between;
   align-items: center;
   font-size: 96px;
+  height: 150px;
 }
 
 .title {
@@ -30,6 +31,8 @@
   gap: 1rem;
 }
 
-.nav li {
+.nav a {
+  color: #ffffff;
+  text-decoration: none;
   padding-right: 46px;
 }

@@ -1,18 +1,19 @@
 @import url("https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap");
 
-.home1 {
+.home {
+  height: calc(100vh - 150px);
+}
+
+#home1 {
   background-color: #36dcbe;
-  height: 100vh;
 }
 
-.home2 {
+#home2 {
   background-color: #50f5a5;
-  height: 100vh;
 }
 
-.home3 {
+#home3 {
   background-color: #9dfc86;
-  height: 100vh;
 }
 
 .button {

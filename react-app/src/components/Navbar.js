@@ -6,8 +6,12 @@ export const Navbar = () => {
     <div className="nav">
       <div className="title">H4I</div>
       <ul>
-        <li>Home</li>
-        <li>About Us</li>
+        <li>
+          <a href="/">Home</a>
+        </li>
+        <li>
+          <a href="/">About us</a>
+        </li>
       </ul>
     </div>
   );
