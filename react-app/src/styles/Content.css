@@ -1,0 +1,27 @@
+
+.btnContainer {
+    height: calc(100vh - 5rem);
+    display:flex;
+    align-items:center;
+    justify-content: center;
+}
+
+.btn {
+    background-color:#CE3030;
+    width: 400px;
+    height: 100px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.btnContainer._36DCBE {
+    background-color: #36DCBE;
+}
+
+.btnContainer._50F5A5 {
+    background-color: #50F5A5;
+}
+
+.btnContainer._9DFC86 {
+    background-color: #9DFC86;
+}
